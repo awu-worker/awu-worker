@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @awu-worker
+- 👀 I’m worker in awu-org for local deployment
